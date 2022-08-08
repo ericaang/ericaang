@@ -10,7 +10,7 @@ I am an aspiring Full Stack Developer who just graduated from 3-month Bootcamp w
 - 🔭 I’m currently doing my internship as a Front End Developer with Lexly.
 - 🌱 I’m currently polishing up on React.js
 - ⚡ Fun fact: I am a hopeless KDrama addict which has nothing to do with everything here
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erica-ang-9855615/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erica-ang/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
