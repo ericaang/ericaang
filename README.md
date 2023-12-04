@@ -10,7 +10,7 @@ I am an aspiring Full Stack Developer who graduated from 3-month Bootcamp with G
 - 🔭 I’m currently working as a FrontEnd developer with Capgemini Singapore.
 - 🌱 I’m currently polishing up on React.js and Vue.js
 - ⚡ Fun fact: I am a hopeless KDrama addict which has nothing to do with everything here
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erica-ang/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erica-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erica-ang/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
