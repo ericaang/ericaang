@@ -4,7 +4,7 @@
   Hi there 👋
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 I am an aspiring Full Stack Developer who just graduated from 3-month Bootcamp with Generation SG.
 
 - 🔭 I’m currently doing my internship as a Front End Developer with Lexly.
