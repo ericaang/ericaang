@@ -5,7 +5,7 @@
 </div>
 
 ### About Me :
-I am an aspiring Full Stack Developer who graduated from 3-month Bootcamp with Generation SG a year ago.
+I am an aspiring Full Stack Developer who graduated from 3-month Bootcamp with Generation SG 2 years ago.
 
 - 🔭 I’m currently working as a FrontEnd developer with Capgemini Singapore.
 - 🌱 I’m currently polishing up on React.js and Vue.js
